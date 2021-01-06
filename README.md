@@ -1,3 +1,4 @@
+_this code has been forked from https://github.com/AtlasScientific/Raspberry-Pi-sample-code and is now maintained separately, optimised for Whitebox carrier boards only._ 
 
 # Preparing the Raspberry Pi #
 ### Install the latest Raspberry Pi OS
