@@ -1,19 +1,13 @@
 _this code has been forked from https://github.com/AtlasScientific/Raspberry-Pi-sample-code and is now maintained separately, optimised for Whitebox carrier boards_ 
 
+This is example code for Whitebox carrier boards for the Raspberry Pi platform to be used with Atlas Scientific EZO devices and third-party devices.
+
+Full hardware documentation, quickstart guide for the Whitebox Tentacle T3 for Raspberry Pi can be found here https://www.whiteboxes.ch/docs/tentacle/t3
+
 # Preparing the Raspberry Pi #
 ### Install the latest Raspberry Pi OS
 Follow the instructions on this page to get Raspberry Pi OS running
 https://www.raspberrypi.org/downloads/raspberry-pi-os/
-
-### Expand file system
-    
-Expand file system by following this:
-https://www.raspberrypi.org/documentation/configuration/raspi-config.md
-
-### Update and Upgrade Packages 
-    
-    sudo apt-get update
-    sudo apt-get upgrade
 
 # Download sample code.
     
@@ -41,6 +35,3 @@ Run the sample code below:
 When the code starts up a list of commands will be shown.
 
 For more details on the commands & responses, please refer to the Datasheets of the Atlas Scientific Sensors.
- 
-Note that it may be a different ttyAMA depending on your setup
-
