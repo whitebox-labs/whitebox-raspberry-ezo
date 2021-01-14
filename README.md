@@ -1,4 +1,4 @@
-_this code has been forked from https://github.com/AtlasScientific/Raspberry-Pi-sample-code and is now maintained separately, optimised for Whitebox carrier boards_ 
+_this code has been forked from https://github.com/AtlasScientific/Raspberry-Pi-sample-code and is maintained here separately, optimised for Whitebox carrier boards_ 
 
 This is example code for Whitebox carrier boards for the Raspberry Pi platform to be used with Atlas Scientific EZO devices and third-party devices.
 
